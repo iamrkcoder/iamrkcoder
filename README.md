@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 I'm a student passionate about software development and problem-solving.<br><br>💻 I enjoy building projects and learning new technologies through hands-on practice.<br><br>🌱 Currently improving my skills in Python, Java, Web Development, and Data Structures & Algorithms.<br><br>🚀 My goal is to become a skilled software engineer by continuously learning, building, and contributing to real-world projects.<br><br>📚 Always curious. Always learning. Always building.
+🎓 I'm a student passionate about software development and problem-solving.<br><br>💻 I enjoy building projects and learning new technologies through hands-on practice.<br><br>🌱 Currently improving my skills in Python, Java, Web Development, and Data Structures & Algorithms.<br><br>🚀 My goal is to become a skilled software engineer by continuously learning, building, and contributing to real-world projects.<br><br>📚 Always curious. Always learning. Always building.
 
 
 ## 🌐 Socials:
